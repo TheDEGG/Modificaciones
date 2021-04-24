@@ -8,3 +8,13 @@ C:\Users\Dany Galan\Desktop\U\modificaciones-main\Entregas\BL.Entregas\bin\Debug
 C:\Users\Dany Galan\Desktop\U\modificaciones-main\Entregas\BL.Entregas\obj\Debug\BL.Entregas.csprojResolveAssemblyReference.cache
 C:\Users\Dany Galan\Desktop\U\modificaciones-main\Entregas\BL.Entregas\obj\Debug\BL.Entregas.dll
 C:\Users\Dany Galan\Desktop\U\modificaciones-main\Entregas\BL.Entregas\obj\Debug\BL.Entregas.pdb
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\BL.Entregas.dll.config
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\BL.Entregas.dll
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\BL.Entregas.pdb
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\EntityFramework.dll
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\EntityFramework.xml
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\obj\Debug\BL.Entregas.csprojResolveAssemblyReference.cache
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\obj\Debug\BL.Entregas.dll
+C:\Users\Dany Galan\Desktop\U\L3\Modificaciones\Entregas\BL.Entregas\obj\Debug\BL.Entregas.pdb
